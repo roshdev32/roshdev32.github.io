@@ -1,0 +1,6 @@
+{
+    "redirect": false,
+    "redirect_package": "privacy.browser.vpn",
+    "fan": true,
+    "admob": true
+}
